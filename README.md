@@ -1,1 +1,3 @@
 # website-flow
+
+// Le munster et le munster-géromé (ou encore minschterkäs en francique lorrain ou minschterkaas en alsacien) constituent une appellation d'origine désignant un fromage de lait de vache de l'Est de la France, qui est protégée nationalement depuis 1969 par une appellation d'origine contrôlée (AOC) et dans l'ensemble des pays de l'Union européenne depuis 1996 par une appellation d'origine protégée (AOP). //
